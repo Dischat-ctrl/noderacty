@@ -1,0 +1,7 @@
+{
+  "name": "MinBot",
+  "disk": "10GB",
+  "cpu": "10",
+  "ram": "512MB",
+  "language": "python"
+}
